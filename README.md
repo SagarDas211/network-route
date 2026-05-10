@@ -63,7 +63,7 @@ Stores successful shortest-route lookups.
 
 ## Setup
 
-### Option 1: Recommended Setup With Docker PostgreSQL
+### Setup With Docker PostgreSQL
 
 Requirements:
 
